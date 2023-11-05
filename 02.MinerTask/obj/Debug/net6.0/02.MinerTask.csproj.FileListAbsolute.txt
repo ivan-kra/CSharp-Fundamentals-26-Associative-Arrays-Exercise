@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\bin\Debug\net6.0\02.MinerTask.exe
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\bin\Debug\net6.0\02.MinerTask.deps.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\bin\Debug\net6.0\02.MinerTask.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\bin\Debug\net6.0\02.MinerTask.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\bin\Debug\net6.0\02.MinerTask.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\refint\02.MinerTask.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\02.MinerTask.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\02.MinerTask\obj\Debug\net6.0\ref\02.MinerTask.dll

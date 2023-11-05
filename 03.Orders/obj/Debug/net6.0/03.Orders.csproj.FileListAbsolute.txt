@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\bin\Debug\net6.0\03.Orders.exe
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\bin\Debug\net6.0\03.Orders.deps.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\bin\Debug\net6.0\03.Orders.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\bin\Debug\net6.0\03.Orders.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\bin\Debug\net6.0\03.Orders.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\refint\03.Orders.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\03.Orders.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\03.Orders\obj\Debug\net6.0\ref\03.Orders.dll
