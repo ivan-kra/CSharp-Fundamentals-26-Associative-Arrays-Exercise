@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.exe
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.deps.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\bin\Debug\net6.0\04.SoftUniParking.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\refint\04.SoftUniParking.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\04.SoftUniParking.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\04.SoftUniParking\obj\Debug\net6.0\ref\04.SoftUniParking.dll

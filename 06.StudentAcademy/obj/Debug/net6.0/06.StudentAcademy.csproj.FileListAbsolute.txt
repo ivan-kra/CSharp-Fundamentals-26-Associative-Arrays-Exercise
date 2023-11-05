@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.exe
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.deps.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\bin\Debug\net6.0\06.StudentAcademy.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\refint\06.StudentAcademy.dll
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.pdb
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\06.StudentAcademy.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\26 Associative Arrays - Exercise\Associative_Arrays_Exercise\06.StudentAcademy\obj\Debug\net6.0\ref\06.StudentAcademy.dll
